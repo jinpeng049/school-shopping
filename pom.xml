@@ -12,7 +12,7 @@
 
     <profiles>
         <profile>
-            <id>dev  </id>
+            <id>dev</id>
             <activation>
                 <activeByDefault>true</activeByDefault>
             </activation>
