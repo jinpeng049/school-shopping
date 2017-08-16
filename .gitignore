@@ -1,11 +1,10 @@
-*.iml
+school-shopping.iml
 *.classpath
 *.project
 /.settings/
 /target/
 /.idea/
 *.class
-**/.idea/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
